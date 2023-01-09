@@ -8,4 +8,4 @@ The artwork is from Pixelfrog and can be found here: https://pixelfrog-assets.it
 
 Background and music are: 
 - xDeviruchi - Title Theme: https://xdeviruchi.itch.io/8-bit-fantasy-adventure-music-pack
-- PIXELBLOG - 18 - AGE OF FLIGHT: slynyrd.com/blog/2019/6/18/pixelblog-18-age-of-flight
+- PIXELBLOG - 18 - AGE OF FLIGHT: https://slynyrd.com/blog/2019/6/18/pixelblog-18-age-of-flight
